@@ -26,7 +26,7 @@ public:
 	~Page();
 
 	void set(Type);
-	void setPageNumber(int number);
+	void setPageNumber(int);
 	int get(Type);
 	void show(Type);
 
